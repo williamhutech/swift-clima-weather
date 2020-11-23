@@ -3,7 +3,8 @@
 
 A beautiful, dark-mode enabled weather app. Users will be able to check the weather for the current location based on the GPS data from the iPhone, as well as by searching for a city manually.
 
-Note: The API key has been excluded from the file to prevent misuse. Please visit https://openweathermap.org to request an API key - it's free :D
+>Note: The API key has been excluded from the file to prevent misuse. 
+Please visit [https://openweathermap.org](https://openweathermap.org) to request an API key - it's free :D
 
 ## Screenshots
 
